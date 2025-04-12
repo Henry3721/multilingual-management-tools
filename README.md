@@ -1,6 +1,6 @@
 # Multilingual Management Tools
 
-A comprehensive toolkit for managing multilingual content in both APP and H5 projects.
+This is a comprehensive toolkit designed for managing multilingual content, focusing on seamless conversion between multilingual JSON, JS files, and Excel. It is ideal for startups and web projects that require efficient translation updates.
 
 ## Features
 
