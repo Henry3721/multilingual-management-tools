@@ -1,0 +1,22 @@
+# Core Data Processing (必需)
+pandas>=1.3.0          # Excel 文件处理和数据操作
+openpyxl>=3.0.0       # Excel 文件读写支持
+
+# File and Path Operations (必需)
+pathlib>=1.0.1        # 文件路径操作
+
+# Type Hints (必需，已内置在 Python 3.8+)
+typing>=3.7.4         # 类型提示支持
+
+# Regular Expressions (必需，已内置在 Python)
+re>=2.2.1            # 正则表达式支持
+
+# Optional Dependencies (可选)
+PyYAML>=6.0.0         # 仅在需要 YAML 配置时使用
+python-json-logger>=2.0.0  # 仅在需要 JSON 格式日志时使用
+numpy>=1.21.0         # 仅在需要额外数值计算时使用
+
+# Development Tools (可选，用于开发)
+pytest>=7.0.0        # 单元测试
+black>=22.0.0        # 代码格式化
+flake8>=4.0.0        # 代码检查
