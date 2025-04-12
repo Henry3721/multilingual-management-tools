@@ -14,7 +14,7 @@ Location: `/json_to_excel`
 - Validates JSON structure during import
 
 ### 2. Excel to APP JSON Updater
-Location: `/excel_to_json`
+Location: `/update_excel_to_json`
 - Updates multiple JSON language files from Excel content
 - Supports incremental updates (only changes modified content)
 - Preserves existing translations
